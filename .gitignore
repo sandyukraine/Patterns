@@ -1,0 +1,16 @@
+
+MusicBandFactory/.gradle/2.2.1/taskArtifacts/cache.properties
+
+MusicBandFactory/.classpath
+
+*.lock
+
+*.bin
+
+MusicBandFactory/.settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs
+
+MusicBandFactory/.settings/gradle/org.springsource.ide.eclipse.gradle.refresh.prefs
+
+MusicBandFactory/.settings/org.eclipse.jdt.core.prefs
+
+MusicBandFactory/.project
